@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>&nbsp;&nbsp;
 
-<h1>Olá a todos, Eu sou Gutierre Braga apaixonado por programação e tecnologia!</h1>&nbsp;&nbsp;
+<h1 align="center">Olá a todos, Eu sou Gutierre Braga apaixonado por programação e tecnologia  👨‍💻!</h1>&nbsp;&nbsp;
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G-Braga&theme=rose_pine&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />&nbsp;&nbsp;
 
