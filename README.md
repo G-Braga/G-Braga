@@ -4,7 +4,10 @@
 
 <h1 align="center">Olá a todos, Eu sou Gutierre Braga apaixonado por programação e tecnologia  👨‍💻!</h1>&nbsp;&nbsp;
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=G-Braga&theme=rose_pine&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />&nbsp;&nbsp;
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G-Braga&theme=rose_pine&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Braga&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+</div><br><br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
